@@ -9,7 +9,7 @@ export * from './font-weights'
 export * from './line-heights'
 
 // para não precisar fazer assim
-// import { colors } from '@ignite-ui/colors';
+// import { colors } from '@atombytecore/colors';
 
 // fazemos assim
-// import { colors } from '@ignite-ui';
+// import { colors } from '@atombytecore';
